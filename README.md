@@ -63,8 +63,8 @@ int main()
  return 0;
 }
 //用了筛法的方法：
-#include<stdio.h>
-#include<math.h>
+#include <stdio.h>
+#include <math.h>
 #define N 10000001
 bool prime[N];
 int main()
